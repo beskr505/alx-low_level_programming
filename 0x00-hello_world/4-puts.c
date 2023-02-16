@@ -1,9 +1,10 @@
+#!/bin/bash
 #include <stdio.h>
 
 /**
-* main - puts)("programming")
-*
-* Return: Always 0 (Success)
+ * main - puts)("programming")
+ *
+ * Return: Always 0 (Success)
 */
 
 int main(void)
